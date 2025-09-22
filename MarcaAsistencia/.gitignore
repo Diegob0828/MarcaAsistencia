@@ -1,0 +1,24 @@
+﻿# Archivos binarios y paquetes
+bin/
+obj/
+packages/
+*.nupkg
+*.snupkg
+
+# Archivos de usuario
+.vs/
+*.user
+*.suo
+
+# Logs y temporales
+*.log
+[Dd]ebug/
+[Rr]elease/
+
+# Archivos de Visual Studio
+.vsconfig
+.vscode/
+
+# Base de datos local (no subas datos sensibles)
+*.db
+*.sqlite
